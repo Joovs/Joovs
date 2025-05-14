@@ -1,6 +1,6 @@
 # Hola soy Jovanna Escobar! 👋
 
-Soy estudiante de la carrera de Desarrollo y Gestión de Software
+Ingeniera en Desarrollo y Gestión de Software
 ![Banner](https://media.licdn.com/dms/image/D4D16AQHptk7Sg0hw0g/profile-displaybackgroundimage-shrink_350_1400/0/1711123517947?e=1721865600&v=beta&t=7JRZ53Sht8tApJaW-_knj5-PNZmI4frAbh8JnBoT2Y4)
 <!--
 **Joovs/Joovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
